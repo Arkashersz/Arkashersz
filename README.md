@@ -23,7 +23,8 @@
 <br>
 <br>
 
-<img src="https://writerlionel.files.wordpress.com/2015/05/typing-computer-keyboard-animated.gif" alt="Programing" width="480">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
+
 
 <!--
 
