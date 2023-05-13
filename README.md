@@ -20,8 +20,10 @@
 </a>
 
 <br>
+<br>
+<br>
 
-<img src="https://writerlionel.files.wordpress.com/2015/05/typing-computer-keyboard-animated.gif" alt="Programing" width="980">
+<img src="https://writerlionel.files.wordpress.com/2015/05/typing-computer-keyboard-animated.gif" alt="Programing" width="480">
 
 <!--
 
