@@ -11,14 +11,15 @@
 :books: I’m currently learning everything.
 
 <br>
+<a href="https://github.com/Arkashersz">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arkashersz&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
+</a>
 
 <a href="https://github.com/Arkashersz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkashersz&theme=dark&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/Arkashersz">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arkashersz&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
-</a>
+
 
 <!--
 
