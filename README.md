@@ -19,7 +19,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkashersz&theme=dark&hide_langs_below=1" />
 </a>
 
+<br>
 
+<img src="https://writerlionel.files.wordpress.com/2015/05/typing-computer-keyboard-animated.gif" alt="Programing" width="980">
 
 <!--
 
