@@ -1,4 +1,14 @@
-### Hi there 👋
+## I'm Douglas!
+
+ 
+
+:computer: Computer Science Student
+
+:house_with_garden: I’m from Brazil.
+
+:heart: Lover of Technology and coding
+
+:books: I’m currently learning everything.
 
 <!--
 **Arkashersz/Arkashersz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
