@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6c72cb&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Douglas;Welcome+to+my+Github!+:%29)](https://git.io/typing-svg)
  
 
-:computer: #6c72cbComputer Science Student               <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="120" />
+:computer: `#6c72cb`Computer Science Student               <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="120" />
            - First semester
            
 :house_with_garden: I’m from Brazil.                           
