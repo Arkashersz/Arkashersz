@@ -13,6 +13,10 @@
 :books: I’m currently learning everything.
 
 <br>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nubiapdias&show_icons=true&count_private=true&hide_border=true&title_color=6c72cb&icon_color=6c72cb&text_color=c9d1d9&bg_color=0d1117" alt="Bia Dias github stats" /> 
+ 
 <a href="https://github.com/Arkashersz">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arkashersz&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
 </a>
