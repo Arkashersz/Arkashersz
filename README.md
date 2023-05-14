@@ -13,8 +13,8 @@
 :books: I’m currently learning everything.
 
 <br>
-<br>
 
+# 
 
 <div align="center">  
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Arkashersz&show_icons=true&count_private=true&hide_border=true&title_color=6c72cb&icon_color=6c72cb&text_color=c9d1d9&bg_color=0d1117" alt="Arkashersz Github Stats" /> 
@@ -22,7 +22,8 @@
 <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkashersz&layout=compact&hide_border=true&title_color=6c72cb&text_color=6c72cb&bg_color=0d1117" />
 </div>
 
-<br>
+
+
 <br>
 <br>
 
