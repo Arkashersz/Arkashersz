@@ -5,11 +5,11 @@
  
 
 :computer: Computer Science Student               <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="120" />
-
+           - First semester
 :house_with_garden: I’m from Brazil.                           
-
+                    - Rio de Janeiro
 :heart: Lover of Technology and coding
-
+                  
 :books: I’m currently learning everything.
 
 <br>
